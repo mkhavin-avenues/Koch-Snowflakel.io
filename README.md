@@ -20,9 +20,4 @@ The recursion stops when the recursion depth equals the maximum level (`maxLevel
 - **`translate()`**: To center the Koch Snowflake within the canvas, the program translates the origin to the center of the window before drawing.
 - **`rotate()`**: While rotation isn't strictly necessary for this implementation, it can be used to manipulate triangle orientation dynamically for variations of the snowflake.
 
-## How to Run
-
-1. Clone this repository.
-2. Open the project in a Java IDE that supports Processing (or use Processing IDE).
-3. Run the program to generate the Koch Snowflake.
 
